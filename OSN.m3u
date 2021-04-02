@@ -1,7 +1,7 @@
-﻿#EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="https://static.epg.best/in/AndFlix.in.png" tvg-url="" group-title="OSN",|OSN| H2 HD
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d1/H2_channel_logo.PNG" tvg-url="" group-title="OSN",|OSN| H2 HD
 http://185.71.64.167:80/307200102142/307200102142/78955
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="https://static.epg.best/in/AndFlix.in.png" tvg-url="" group-title="OSN",|OSN| HISTORY CHANNEL HD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/History_Logo.svg/1200px-History_Logo.svg.png" tvg-url="" group-title="OSN",|OSN| HISTORY CHANNEL HD
 http://185.71.64.167:80/307200102142/307200102142/78954
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="https://static.epg.best/in/AndFlix.in.png" tvg-url="" group-title="OSN",|OSN| NAT GEO HD
 http://185.71.64.167:80/307200102142/307200102142/78953
