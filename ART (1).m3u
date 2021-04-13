@@ -1,0 +1,9 @@
+﻿#EXTM3U
+#EXTINF:-1,ART Hekayat 1
+http://51.15.0.141:8080/ART_HIKAYAT_1/index.m3u8?token=test
+#EXTINF:-1,ART Hekayat 2
+http://51.15.0.141:8080/ART_HIKAYAT_2/index.m3u8?token=test
+#EXTINF:-1,ART Aflam 1
+http://51.15.0.141:8080/ART_AFLAM_1/index.m3u8?token=test
+#EXTINF:-1,ART Aflam 2
+http://51.15.0.141:8080/ART_AFLAM_2/index.m3u8?token=test
