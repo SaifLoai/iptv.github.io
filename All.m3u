@@ -599,25 +599,25 @@ https://master.starmena-cloud.com/hls/yemenshabab.m3u8
 https://bozztv.com/36bay2/gin/giniko_yementv_900kb_36bay2/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="Zagros.iq" tvg-name="Zagros" tvg-country="IQ" tvg-language="Arabic" tvg-logo="https://www.zagrosnews.net/sites/default/files/zagros-logo-01_1.png" tvg-url="https://raw.githubusercontent.com/Fazzani/grab/master/merge.zip" group-title="General"tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="https://static.epg.best/in/AndFlix.in.png" tvg-url="" group-title="OSN",Zagros (720p)
 https://5a3ed7a72ed4b.streamlock.net/zagrostv/SMIL:myStream.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="DISNEY" tvg-name="DISNEY JUNIOR HD" tvg-country="IQ" tvg-language="Arabic" tvg-logo="" tvg-url="" group-title="General"tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="" tvg-url="" group-title="OSN",Zagros (720p)
+#EXTINF:-1 tvg-id="DISNEY" tvg-name="DISNEY JUNIOR HD" tvg-country="IQ" tvg-language="Arabic" tvg-logo="" tvg-url="" group-title="General"tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="" tvg-url="" group-title="OSN",DISNEY JUNIOR HD
 https://5a3ed7a72ed4b.streamlock.net/zagrostv/SMIL:myStream.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="HISTORY" tvg-name="HISTORY CHANNEL HD" tvg-country="IQ" tvg-language="Arabic" tvg-logo="" tvg-url="" group-title="General"tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="" tvg-url="" group-title="OSN",Zagros (720p)
+#EXTINF:-1 tvg-id="HISTORY" tvg-name="HISTORY CHANNEL HD" tvg-country="IQ" tvg-language="Arabic" tvg-logo="" tvg-url="" group-title="General"tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="" tvg-url="" group-title="OSN",HISTORY CHANNEL HD
 http://185.71.64.167:80/307200102142/307200102142/78956
-#EXTINF:-1 tvg-id="NATGEO" tvg-name="NAT GEO HD" tvg-country="IQ" tvg-language="Arabic" tvg-logo="" tvg-url="" group-title="General"tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="" tvg-url="" group-title="OSN",Zagros (720p)
+#EXTINF:-1 tvg-id="NATGEO" tvg-name="NAT GEO HD" tvg-country="IQ" tvg-language="Arabic" tvg-logo="" tvg-url="" group-title="General"tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="" tvg-url="" group-title="OSN",NAT GEO HD
 http://185.71.64.167:80/307200102142/307200102142/78953
-#EXTINF:-1 tvg-id="NATGEOP" tvg-name="NAT GEO PEOPLE HD" tvg-country="IQ" tvg-language="Arabic" tvg-logo="" tvg-url="" group-title="General"tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="" tvg-url="" group-title="OSN",Zagros (720p)
+#EXTINF:-1 tvg-id="NATGEOP" tvg-name="NAT GEO PEOPLE HD" tvg-country="IQ" tvg-language="Arabic" tvg-logo="" tvg-url="" group-title="General"tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="" tvg-url="" group-title="OSN",NAT GEO PEOPLE HD
 http://185.71.64.167:80/307200102142/307200102142/78952
-#EXTINF:-1 tvg-id="NATGEOW" tvg-name="NAT GEO WILD HD" tvg-country="IQ" tvg-language="Arabic" tvg-logo="" tvg-url="" group-title="General"tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="" tvg-url="" group-title="OSN",Zagros (720p)
+#EXTINF:-1 tvg-id="NATGEOW" tvg-name="NAT GEO WILD HD" tvg-country="IQ" tvg-language="Arabic" tvg-logo="" tvg-url="" group-title="General"tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="" tvg-url="" group-title="OSN",NAT GEO WILD HD
 http://185.71.64.167:80/307200102142/307200102142/78951
-#EXTINF:-1 tvg-id="DISCOVERY" tvg-name="DISCOVERY HD" tvg-country="IQ" tvg-language="Arabic" tvg-logo="" tvg-url="" group-title="General"tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="" tvg-url="" group-title="OSN",Zagros (720p)
+#EXTINF:-1 tvg-id="DISCOVERY" tvg-name="DISCOVERY HD" tvg-country="IQ" tvg-language="Arabic" tvg-logo="" tvg-url="" group-title="General"tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="" tvg-url="" group-title="OSN",DISCOVERY HD
 http://185.71.64.167:80/307200102142/307200102142/78946
-#EXTINF:-1 tvg-id="DISCOVERY IDX HD" tvg-name="DISCOVERY IDX HD" tvg-country="IQ" tvg-language="Arabic" tvg-logo="" tvg-url="" group-title="General"tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="" tvg-url="" group-title="OSN",Zagros (720p)
+#EXTINF:-1 tvg-id="DISCOVERY IDX HD" tvg-name="DISCOVERY IDX HD" tvg-country="IQ" tvg-language="Arabic" tvg-logo="" tvg-url="" group-title="General"tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="" tvg-url="" group-title="OSN",DISCOVERY IDX HD
 http://185.71.64.167:80/307200102142/307200102142/78945
-#EXTINF:-1 tvg-id="DISCOVERY SCIENCE" tvg-name="DISCOVERY SCIENCE HD" tvg-country="IQ" tvg-language="Arabic" tvg-logo="" tvg-url="" group-title="General"tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="" tvg-url="" group-title="OSN",Zagros (720p)
+#EXTINF:-1 tvg-id="DISCOVERY SCIENCE" tvg-name="DISCOVERY SCIENCE HD" tvg-country="IQ" tvg-language="Arabic" tvg-logo="" tvg-url="" group-title="General"tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="" tvg-url="" group-title="OSN",DISCOVERY SCIENCE
 http://185.71.64.167:80/307200102142/307200102142/78944
-#EXTINF:-1 tvg-id="DISNEY2" tvg-name="DISNEY HD" tvg-country="IQ" tvg-language="Arabic" tvg-logo="" tvg-url="" group-title="General"tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="" tvg-url="" group-title="OSN",Zagros (720p)
+#EXTINF:-1 tvg-id="DISNEY2" tvg-name="DISNEY HD" tvg-country="IQ" tvg-language="Arabic" tvg-logo="" tvg-url="" group-title="General"tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="" tvg-url="" group-title="OSN",DISNEY2
 http://185.71.64.167:80/307200102142/307200102142/78942
-#EXTINF:-1 tvg-id="DISNEYXD2" tvg-name="DISNEY XD HD" tvg-country="IQ" tvg-language="Arabic" tvg-logo="" tvg-url="" group-title="General"tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="" tvg-url="" group-title="OSN",Zagros (720p)
+#EXTINF:-1 tvg-id="DISNEYXD2" tvg-name="DISNEY XD HD" tvg-country="IQ" tvg-language="Arabic" tvg-logo="" tvg-url="" group-title="General"tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="" tvg-url="" group-title="OSN",DISNEY XD HD
 http://185.71.64.167:80/307200102142/307200102142/78941
-#EXTINF:-1 tvg-id="NICKELODEON" tvg-name="NICKELODEON HD" tvg-country="IQ" tvg-language="Arabic" tvg-logo="" tvg-url="" group-title="General"tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="" tvg-url="" group-title="OSN",Zagros (720p)
+#EXTINF:-1 tvg-id="NICKELODEON" tvg-name="NICKELODEON HD" tvg-country="IQ" tvg-language="Arabic" tvg-logo="" tvg-url="" group-title="General"tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="" tvg-url="" group-title="OSN",NICKELODEON HD
 http://185.71.64.167:80/307200102142/307200102142/78938
